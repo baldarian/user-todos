@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Peter Bishop"
+    },
+    {
+      "id": 2,
+      "name": "John Doe"
+    },
+    {
+      "id": 3,
+      "name": "William Bell"
+    },
+    {
+      "id": 4,
+      "name": "Nina Sharp"
+    },
+    {
+      "id": 5,
+      "name": "Frances Vasquez"
+    },
+    {
+      "id": 6,
+      "name": "Charlie Franklin"
+    },
+    {
+      "id": 7,
+      "name": "Walter Bishop"
+    },
+    {
+      "id": 8,
+      "name": "Samantha Gutierrez"
+    }
+  ],
+  "todos": []
+}
